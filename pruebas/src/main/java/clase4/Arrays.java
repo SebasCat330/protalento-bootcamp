@@ -27,4 +27,9 @@ public class Arrays {
 
 	}
 
+	public static char[] toString(String[] nombresConE) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
