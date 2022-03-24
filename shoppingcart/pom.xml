@@ -2,9 +2,8 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>protalento-bootcamp</groupId>
-    <artifactId>app-parent</artifactId>
+    <artifactId>proyecto1</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>pruebas</artifactId>
-  <name>Primer programa Java para no programadores</name>
+  <artifactId>shoppingcart</artifactId>
 </project>

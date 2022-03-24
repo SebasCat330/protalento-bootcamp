@@ -5,6 +5,5 @@
     <artifactId>app-parent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>pruebas</artifactId>
-  <name>Primer programa Java para no programadores</name>
+  <artifactId>app-weba</artifactId>
 </project>
